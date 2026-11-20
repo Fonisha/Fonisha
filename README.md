@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Fonisha/Fonisha/master/flying-firebird-smooth.gif" width="100%" alt="Летящая жар-птица" />
+  <img src="https://raw.githubusercontent.com/Fonisha/Fonisha/master/flying-firebird-gentle.gif" width="100%" alt="Летящая жар-птица" />
 </div>
 
 ## 📊 Немного статистики
