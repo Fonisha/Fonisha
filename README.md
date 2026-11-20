@@ -13,7 +13,7 @@
 
 Люблю разбираться, как всё устроено, и пробовать новое на практике. Здесь собираю свои проекты и идеи.
 
-## Вклады
+## 🐍 Змейка
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Fonisha/Fonisha/output/github-contribution-grid-snake.svg" alt="Анимация вкладов GitHub в красно-оранжевых цветах" width="100%" />
