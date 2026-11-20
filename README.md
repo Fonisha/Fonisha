@@ -11,7 +11,8 @@
   <br />
   <br />
 
-  <img src="https://skillicons.dev/icons?i=git,unity,java,cs,ubuntu,minecraft" height="32" alt="Git, Unity, Java, C sharp, Ubuntu, Minecraft" />
+  <img src="https://skillicons.dev/icons?i=git,unity,java,cs,ubuntu" height="32" alt="Git, Unity, Java, C sharp, Ubuntu" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/minecraft.svg" width="32" height="32" alt="Minecraft" />
 </div>
 
 ## 📊 Статистика
