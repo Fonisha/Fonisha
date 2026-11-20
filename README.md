@@ -27,9 +27,9 @@
 
   <br />
 
-  <p><i>“I find motivation in every step.”</i></p>
-
   <p>
     <img src="https://count.getloli.com/@Fonisha?theme=gelbooru&padding=7&scale=1" alt="Счётчик посещений профиля" />
   </p>
+
+  <p><i>“I find motivation in every step.”</i></p>
 </div>
