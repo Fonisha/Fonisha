@@ -12,7 +12,7 @@
   <br />
 
   <img src="https://skillicons.dev/icons?i=git,unity,java,cs,ubuntu" height="32" alt="Git, Unity, Java, C sharp, Ubuntu" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/minecraft.svg" width="32" height="32" alt="Minecraft" />
+  <img src="https://mcitemgallery.com/images/1.15.2/grass_block.png" width="32" height="32" alt="Minecraft grass block" />
 </div>
 
 ## 📊 Статистика
