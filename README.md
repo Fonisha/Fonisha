@@ -13,6 +13,10 @@
   <img src="https://mcitemgallery.com/images/1.15.2/grass_block.png" width="32" height="32" alt="Minecraft grass block" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Fonisha/Fonisha/master/flying-firebird.gif" width="100%" alt="Летящая жар-птица" />
+</div>
+
 ## 📊 Немного статистики
 
 <div align="center">
