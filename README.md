@@ -9,6 +9,19 @@
   <img src="https://img.shields.io/badge/Java-БАЗОВЫЙ-E87524?style=flat-square&logo=openjdk&logoColor=white" alt="Java: базовый уровень" />
 </div>
 
+## 📊 Статистика
+
+<div align="center">
+  <img src="https://github-readme-stats-seven-theta-87.vercel.app/api?username=Fonisha&theme=tokyonight&hide_border=true&border_radius=20&show_icons=true&rank_icon=default&v=6" height="200" alt="Статистика GitHub Fonisha" />
+  <img src="https://github-readme-stats-seven-theta-87.vercel.app/api/top-langs/?username=Fonisha&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=10&v=11" height="200" alt="Популярные языки Fonisha" />
+</div>
+
+## 👀 Посещения
+
+<div align="center">
+  <img src="https://count.getloli.com/@Fonisha?theme=gelbooru&padding=7&scale=1" alt="Счётчик посещений профиля" />
+</div>
+
 ## 🧩 Обо мне
 
 Люблю разбираться, как всё устроено, и пробовать новое на практике. Здесь собираю свои проекты и идеи.
