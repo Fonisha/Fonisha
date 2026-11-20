@@ -11,12 +11,7 @@
   <br />
   <br />
 
-  <img src="https://cdn.simpleicons.org/git/F05032" width="32" height="32" alt="Git" />
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" width="32" height="32" alt="Unity" />
-  <img src="https://cdn.simpleicons.org/java/ED8B00" width="32" height="32" alt="Java" />
-  <img src="https://cdn.simpleicons.org/csharp/512BD4" width="32" height="32" alt="C sharp" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="32" height="32" alt="Ubuntu" />
-  <img src="https://cdn.simpleicons.org/minecraft/62B47A" width="32" height="32" alt="Minecraft" />
+  <img src="https://skillicons.dev/icons?i=git,unity,java,cs,ubuntu,minecraft" height="32" alt="Git, Unity, Java, C sharp, Ubuntu, Minecraft" />
 </div>
 
 ## 📊 Статистика
