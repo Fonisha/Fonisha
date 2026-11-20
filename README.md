@@ -26,10 +26,10 @@
 
 Люблю разбираться, как всё устроено, и пробовать новое на практике. Здесь собираю свои проекты и идеи.
 
-## 🐍 Змейка
+## 🔥 Жар-птица
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Fonisha/Fonisha/output/github-contribution-dragon.svg?v=3" alt="Анимация вкладов GitHub в виде огненного дракона" width="100%" />
+  <img src="https://raw.githubusercontent.com/Fonisha/Fonisha/output/firebird-contributions-v2.svg" alt="Жар-птица на графике вкладов GitHub" width="100%" />
 
   <br />
 
