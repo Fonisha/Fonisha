@@ -18,6 +18,10 @@ jobs:
           github_user_name: Fonisha
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=%23ff3b30&color_dots=%23351b19,%239c3328,%23d94332,%23ff6b35,%23ffb347
+      - name: Build language stats
+        env:
+          GH_TOKEN: ${{ secrets.PRIVATE_STATS_TOKEN }}
+        run: node .github/scripts/languages.mjs
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

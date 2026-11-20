@@ -13,7 +13,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-seven-theta-87.vercel.app/api?username=Fonisha&theme=tokyonight&hide_border=true&border_radius=20&show_icons=true&rank_icon=default&v=6" height="200" alt="Статистика GitHub Fonisha" />
-  <img src="https://github-readme-stats-seven-theta-87.vercel.app/api/top-langs/?username=Fonisha&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&langs_count=10&count_private=true&include_all_commits=true&v=12" height="200" alt="Популярные языки Fonisha" />
+  <img src="https://raw.githubusercontent.com/Fonisha/Fonisha/output/languages.svg" height="200" alt="Популярные языки Fonisha" />
 </div>
 
 ## 🧩 Обо мне
