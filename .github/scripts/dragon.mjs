@@ -1,7 +1,7 @@
 import fs from "node:fs";
 
 const path = "dist/github-contribution-grid-snake.svg";
-const outputPath = "dist/firebird-contributions-v2.svg";
+const outputPath = "dist/firebird-contributions-v3.svg";
 let svg = fs.readFileSync(path, "utf8");
 const duration = svg.match(/\.s\{[^}]*animation:none linear (\d+ms) infinite/)?.[1];
 if (!duration || !svg.includes("@keyframes s0")) throw new Error("Snake animation not found");
@@ -21,6 +21,10 @@ const dragon = `
   <path fill="#ffcf59" d="M19 10l6 2-6 2zM12 5l-1-6 4 5 2-5 1 7z"/>
   <path fill="#ffb347" d="M3 21l-12 11 5-10zM7 22L2 35l10-14z"/>
 </g>`;
+
+const segments = svg.match(/<rect class="s s[0-9a-f]+"[^>]*\/>/g);
+if (!segments?.length) throw new Error("Snake segments not found");
+svg = svg.replace(/<rect class="s s[0-9a-f]+"[^>]*\/>/g, "");
 
 if (!svg.includes("dragon-head")) {
   svg = svg.replace("</svg>", `${dragon}</svg>`);
