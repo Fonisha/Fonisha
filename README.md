@@ -29,7 +29,7 @@
 ## 🐍 Змейка
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Fonisha/Fonisha/output/github-contribution-grid-snake.svg" alt="Анимация вкладов GitHub в красно-оранжевых цветах" width="100%" />
+  <img src="https://raw.githubusercontent.com/Fonisha/Fonisha/output/github-contribution-dragon.svg?v=3" alt="Анимация вкладов GitHub в виде огненного дракона" width="100%" />
 
   <br />
 
