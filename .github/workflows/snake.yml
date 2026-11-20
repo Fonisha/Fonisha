@@ -20,6 +20,8 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=%23ff3b30&color_dots=%23351b19,%239c3328,%23d94332,%23ff6b35,%23ffb347
       - name: Fix generated files permissions
         run: sudo chown -R "$USER":"$USER" dist
+      - name: Add dragon head
+        run: node .github/scripts/dragon.mjs
       - name: Build language stats
         env:
           GH_TOKEN: ${{ secrets.PRIVATE_STATS_TOKEN }}
