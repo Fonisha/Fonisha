@@ -36,5 +36,4 @@
   </p>
 
   <p><i>“I find motivation in every step.”</i></p>
-  <sub>✦ &nbsp; F O N I S H A &nbsp; ✦</sub>
 </div>
